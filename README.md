@@ -1,4 +1,4 @@
-# Understanding-user-and-product-interaction
+# Understanding user and product interaction
 
 An employee travel provider has asked you to review how users interact with their online travel website.
 They store their data in JSON files. Each row in these files lists all the different cities that have been searched for by a user within the same session (as well as some other info about the user). 
